@@ -17,10 +17,22 @@
 * Service Discovery (Spring Cloud)  
 * IDE Eclipse  
 * Banco de dados H2 e MYsql  
+* ModelMapper 
+* JPA
+* Lombok
 
 #### Acesso nas aplicações  
 * Microservice_Address_Catalog: http://localhost:8082  
 * Microservice_Client: http://localhost:8081  
 * Gateway: http://localhost:8080  
 * Config_Server: http://localhost:8083  
-* Service_Discovery: http://localhost:9000
+* Service_Discovery: http://localhost:9000  
+
+#### Sites Referenciais  
+ <a href= "https://mvnrepository.com/"> Dependencias Maven </a>  
+ <a href= "https://projectlombok.org/"> Lombok </a>  
+ <a href= "http://modelmapper.org/"> ModelMapper Documentation  </a>  
+ <a href= "https://www.eclipse.org/downloads/"> Eclipse </a>  
+ <a href= "https://start.spring.io/"> Spring initializr </a>  
+ <a href= "https://github.com/"> GitHub </a>  
+ <a href= "https://git-scm.com/"> Git </a>  
